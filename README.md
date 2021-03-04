@@ -12,4 +12,4 @@ The notebook 'DataCleaning.ipynb' uses Data.ods (Data collected from Finnish, No
 
 To show that the model works at least for a simulated data, there has been created a notebook 'SimulatedModelFitting.ipynb'
 
-An interesting illustration how traffic data also could be used is in 'AppendixTrafficAverages.pdf'
+An interesting illustration how Google's traffic data also could be used is in 'AppendixTrafficAverages.pdf'
