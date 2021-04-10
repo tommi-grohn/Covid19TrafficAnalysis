@@ -1,4 +1,4 @@
-# Covid19TrafficAnalysis
+# Covid-19 Traffic Analysis
 
 The most important document is 'Report.pdf'. There is written all the essentials: abstract, introduction, methology, results and conclusion of this project.
 
