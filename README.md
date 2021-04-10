@@ -1,4 +1,4 @@
-# Covid-19 Traffic Analysis
+# Analysis Covid-19 with Google's traffic data in Finland, Norway and Sweden
 
 The most important document is 'Report.pdf'. There is written all the essentials: abstract, introduction, methology, results and conclusion of this project.
 
